@@ -1,7 +1,7 @@
 ## Arafath Miah | Student at Queen Mary University of London 🎓
 
 - 💻 Software Developer
-- 🌱 Currently learning Flutter
+- 🌱 Currently learning Flutter and Django
 - 🥅 2020 Goals: Contribute to Open Source projects
 - 📈 Investor
 - ⚡ Fun fact: I love Skillet and Shraddha Kapoor
