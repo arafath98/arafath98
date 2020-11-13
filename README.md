@@ -24,6 +24,8 @@
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][django]
+
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
@@ -61,6 +63,7 @@
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
 [python]: https://www.python.org/
+[django]: https://www.djangoproject.com/
 [react]: https://reactjs.org/
 [javascript]: https://www.javascript.com/
 [html]: https://html.spec.whatwg.org/
