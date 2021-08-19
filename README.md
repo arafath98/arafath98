@@ -1,8 +1,8 @@
 ## Arafath Miah | Student at Queen Mary University of London 🎓
 
 - 💻 Software Developer
-- 🌱 Currently learning Flutter and Django
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🌱 Currently learning ReactJS and Solidity
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 📈 Investor
 - ⚡ Fun fact: I love Skillet and Shraddha Kapoor
 
@@ -52,7 +52,6 @@
 
 ---
 
-<img align="left" alt="Arafath's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arafath98&show_icons=true&hide_border=true" />
 
 [website]: https://www.linkedin.com/in/arafath98/
 [twitter]: https://twitter.com/ventoreal_
