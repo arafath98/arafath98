@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DD6B20&width=500&height=60&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DD6B20&width=500&height=50&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London)](https://git.io/typing-svg)
 
 - 💻 Software Developer
 - 🌱 Currently learning ReactJS and Solidity
