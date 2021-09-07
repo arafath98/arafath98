@@ -1,4 +1,8 @@
-## Arafath Miah | Student at Queen Mary University of London 🎓
+### <p align="center"> ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓥𝓮𝓷𝓽𝓸'𝓼 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~ </p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DD6B20&width=500&height=60&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London)](https://git.io/typing-svg)
 
 - 💻 Software Developer
 - 🌱 Currently learning ReactJS and Solidity
