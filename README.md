@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ventoreal_ | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ventoreal_ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ventoreal_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ventoreal_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ventoreal_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ventoreal_ | Website" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />][website]
+[<img align="left" alt="ventoreal_ | YouTube" height="22px" src="https://static.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
+[<img align="left" alt="ventoreal_ | Twitter" height="22px" src="https://static.cdnlogo.com/logos/t/45/twitter.svg" />][twitter]
+[<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="ventoreal_ | Instagram" height="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
 
 <br />
 
