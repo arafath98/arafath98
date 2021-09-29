@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DD6B20&width=500&height=50&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2D88FF&width=500&height=50&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London)](https://git.io/typing-svg)
 
 - 💻 Software Developer
 - 🌱 Currently learning ReactJS and Solidity
@@ -51,9 +51,9 @@
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+<!-- [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal] -->
 
 
 <br />
