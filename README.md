@@ -2,11 +2,11 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2D88FF&width=500&height=50&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?color=2D88FF&width=500&height=50&lines=(vento)+%3D%3E+vento.hi();Hey+there%2C+I+am+Arafath+Miah+!;Student+at+Queen+Mary+University+of+London>)](https://git.io/typing-svg)
 
-- 💻 Software Developer
+- 💻 Cloud DevOps Engineer
 - 🌱 Currently learning ReactJS and Solidity
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 Goals: Contribute to Open Source projects
 - 📈 Investor
 - ⚡ Fun fact: I love Skillet and Shraddha Kapoor
 
@@ -14,10 +14,9 @@
 
 [<img align="left" alt="ventoreal_ | Website" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />][website]
 [<img align="left" alt="ventoreal_ | YouTube" height="22px" src="https://static.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
-[<img align="left" alt="ventoreal_ | Twitter" height="22px" src="https://static.cdnlogo.com/logos/t/45/twitter.svg" />][twitter]
+[<img align="left" alt="ventoreal_ | Twitter" height="22px" src="https://static.cdnlogo.com/logos/x/9/x.svg" />][x]
 [<img align="left" alt="ventoreal_ | LinkedIn" height="22px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="ventoreal_ | Instagram" height="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -55,19 +54,16 @@
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal] -->
 
-
 <br />
 <br />
 
 ---
 
-
-[website]: https://arafath.co.uk/
-[twitter]: https://twitter.com/ventoreal_
+[website]: https://vento.one/
+[x]: https://x.com/ventoreal_
 [youtube]: https://www.youtube.com/channel/UC9eIoKefXjWxVpppUp2cUIg
 [instagram]: https://www.instagram.com/ventoreal_/
 [linkedin]: https://www.linkedin.com/in/arafath98/
-
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
 [python]: https://www.python.org/
