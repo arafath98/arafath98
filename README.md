@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="center" alt="ventoreal\_ | Website" height="30px" width="30px" style="margin: 0px 5px 0px 0px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />][website]
-[<img align="center" alt="ventoreal_ | YouTube" height="30px" width="30px" style="margin: 0px 5px" src="https://static.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
-[<img align="center" alt="ventoreal_ | Twitter" height="30px" width="30px" style="margin: 0px 5px" src="https://static.cdnlogo.com/logos/x/9/x.svg" />][x]
-[<img align="center" alt="ventoreal_ | LinkedIn" height="30px" width="30px" style="margin: 0px 5px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
-[<img align="center" alt="ventoreal_ | Instagram" height="30px" width="30px" style="margin: 0px 0px 0px 5px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
+[<img align="center" alt="ventoreal\_ | Website" height="30px" width="30px" style="margin: 0px 10px 0px 0px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" />][website]
+[<img align="center" alt="ventoreal_ | YouTube" height="30px" width="30px" style="margin: 0px 10px" src="https://static.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
+[<img align="center" alt="ventoreal_ | Twitter" height="30px" width="30px" style="margin: 0px 10px" src="https://static.cdnlogo.com/logos/x/9/x.svg" />][x]
+[<img align="center" alt="ventoreal_ | LinkedIn" height="30px" width="30px" style="margin: 0px 10px" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="center" alt="ventoreal_ | Instagram" height="30px" width="30px" style="margin: 0px 0px 0px 10px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
